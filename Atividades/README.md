@@ -1,1 +1,0 @@
-# Atividade - Caça Quadrado
